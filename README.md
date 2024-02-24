@@ -41,5 +41,5 @@ Click on the link given below or follow the instrucations given below to run the
  
 ## Live Link
 
-https://verdant-hummingbird-7d7ef3.netlify.app/
-
+[https://verdant-hummingbird-7d7ef3.netlify.app/
+](https://razor-pay-18.netlify.app/)https://razor-pay-18.netlify.app/
